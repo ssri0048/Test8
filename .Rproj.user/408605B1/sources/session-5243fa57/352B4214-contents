@@ -20,6 +20,12 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
+## Fix Rmd from main branch
+```{r}
+library(ggplot2)
+plot(mpg)
+head(mpg)
+```
 
 
 
