@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"chunk_definitions":[{"row":27,"row_count":1,"visible":true,"expansion_state":0,"options":{"engine":"r","label":"unnamed-chunk-6"},"document_id":"352B4214","chunk_id":"ckqvj8377khjf","chunk_label":"unnamed-chunk-1"}],"doc_write_time":1684550255,"chunk_rendered_width":551}
+=======
+{"chunk_definitions":[{"row":9,"row_count":1,"visible":true,"expansion_state":0,"options":{"engine":"r","label":"setup","include":false},"document_id":"352B4214","chunk_id":"csetup_chunk","chunk_label":"setup"},{"row":27,"row_count":1,"visible":true,"expansion_state":0,"options":{"engine":"r","label":"unnamed-chunk-3"},"document_id":"352B4214","chunk_id":"clzl4emiy7uno","chunk_label":"unnamed-chunk-1"}],"doc_write_time":1684549634,"working_dir":null,"default_chunk_options":{"echo":true}}
+>>>>>>> branch2
